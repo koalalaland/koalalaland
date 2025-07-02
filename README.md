@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koalalaland&label=Profile%20views&color=0e75b6&style=flat" alt="koalalaland" /> </p>
 
-- 🔭 I’m currently working on **Job Application management**
+- 🔭 I’m currently working on **Job Application management project**
 
 - 🌱 I’m currently learning **Django, React js, python, php**
 
