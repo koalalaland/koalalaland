@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koalalaland&label=Profile%20views&color=0e75b6&style=flat" alt="koalalaland" /> </p>
 
-- 🔭 My portfolio [](https://ayakathiri.netlify.app/)
+- 🔭 My portfolio [https://ayakathiri.netlify.app/](https://ayakathiri.netlify.app/)
 
 - 🌱 I’m currently learning **Django, React js, python, php**
 
