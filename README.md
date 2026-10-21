@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koalalaland&label=Profile%20views&color=0e75b6&style=flat" alt="koalalaland" /> </p>
 
-- 🔭 I’m currently working on **Job Application management project**
+- 🔭 My portfolio [](https://ayakathiri.netlify.app/)
 
 - 🌱 I’m currently learning **Django, React js, python, php**
 
 - 📝 I regularly post about interesting topics on [https://www.linkedin.com/in/aya-kathiri-769a021b4/](https://www.linkedin.com/in/aya-kathiri-769a021b4/)
 
-- 📫 How to reach me **littleaya302@gmail.com**
+- 📫 How to reach me **ayakathiri302@gmail.com**
 
 - ⚡ Fun fact **I am a very funny person**
 
