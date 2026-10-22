@@ -23,8 +23,8 @@
   </a>
   <a href="https://instagram.com/k.aya15" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k.aya15 Instagram" height="30" width="40" />
-    <img src="aya.png" alt="Aya Kathiri" width="120" style="vertical-align: middle;" />
   </a>
+  <img align="center" src="aya.png" alt="Aya Kathiri" height="30" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
